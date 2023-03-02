@@ -14,6 +14,7 @@
 		02462A4A29B10EC60016541E /* SwiftUIProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02462A4929B10EC60016541E /* SwiftUIProjectTests.swift */; };
 		02462A5429B10EC60016541E /* SwiftUIProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02462A5329B10EC60016541E /* SwiftUIProjectUITests.swift */; };
 		02462A5629B10EC60016541E /* SwiftUIProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02462A5529B10EC60016541E /* SwiftUIProjectUITestsLaunchTests.swift */; };
+		02462A6329B10F8C0016541E /* TextBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02462A6229B10F8C0016541E /* TextBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		02462A4F29B10EC60016541E /* SwiftUIProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		02462A5329B10EC60016541E /* SwiftUIProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIProjectUITests.swift; sourceTree = "<group>"; };
 		02462A5529B10EC60016541E /* SwiftUIProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		02462A6229B10F8C0016541E /* TextBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				02462A3A29B10EC40016541E /* ContentView.swift */,
 				02462A3C29B10EC60016541E /* Assets.xcassets */,
 				02462A3E29B10EC60016541E /* Preview Content */,
+				02462A6229B10F8C0016541E /* TextBasic.swift */,
 			);
 			path = SwiftUIProject;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02462A6329B10F8C0016541E /* TextBasic.swift in Sources */,
 				02462A3B29B10EC40016541E /* ContentView.swift in Sources */,
 				02462A3929B10EC40016541E /* SwiftUIProjectApp.swift in Sources */,
 			);
